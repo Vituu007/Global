@@ -1,4 +1,4 @@
-# Global
+# Global Solution
 readme python
 # Sistema de Monitoramento de Praias do Brasil, ex(prais de São Paulo)
 
