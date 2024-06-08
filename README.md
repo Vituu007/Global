@@ -26,7 +26,7 @@ Este é um programa Python que monitora e atualiza uma lista de praias de São P
 - As listas de praias estão predefinidas no código. Se desejar modificar ou expandir as listas, é necessário editar diretamente o código-fonte.
 - O programa foi projetado para uso básico de demonstração, utilizando apenas São paulo como base e 1/3 de suas prais, mas para uso pratico pode facilmente colocar todos os estados e todas suas praias para um monitoramento mais amplo, mas como demostraçãop não fazia sentido pela grande quantidade de praias em cada estado brasieliro.
 
-##indetificação
+## Indentificação
 -  nome:Victor Alves de Souza
   Rm:555761
 -  nome:JOSE ANTONIO KRETZER RODRIGUEZ
