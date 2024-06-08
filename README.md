@@ -29,5 +29,5 @@ Este é um programa Python que monitora e atualiza uma lista de praias de São P
 ## Indentificação
 -  nome:Victor Alves de Souza
   Rm:555761
--  nome:JOSE ANTONIO KRETZER RODRIGUEZ
+-  nome:José António Kretzer Rodriguiz
   Rm:555523
